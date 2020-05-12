@@ -19,7 +19,7 @@ metadata:
             "DEFENDER_CN": "",
             "DEFENDER_LISTENER_TYPE": "",
             "DOCKER_SOCKET": "",
-            "DOCKER_TWISTLOCK_TAG": "_20_03_150",
+            "DOCKER_TWISTLOCK_TAG": "_20_04_163",
             "HIGH_AVAILABILITY_ENABLED": "false",
             "HIGH_AVAILABILITY_PORT": "8086",
             "HIGH_AVAILABILITY_STATE": "PRIMARY",
